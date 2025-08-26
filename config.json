@@ -1,0 +1,11 @@
+{
+    "bulk_patch_apps": [
+        "instagram",
+        "youtube",
+        "ytmusic"
+    ],
+    "keystore": {
+        "name": "luniume",
+        "alias": "key0"
+    }
+}

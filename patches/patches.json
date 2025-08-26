@@ -1,0 +1,20 @@
+{
+    "revanced": {
+        "patches": {
+            "url": "https://github.com/ReVanced/revanced-patches",
+            "version": "latest"
+        },
+        "patches-rvx": {
+            "url": "https://github.com/inotia00/revanced-patches",
+            "version": "latest"
+        }
+    },
+    "lspatch": {
+        "instaeclipse": {
+            "version": "v0.4.3",
+            "url": "https://github.com/ReSo7200/InstaEclipse/releases/download/v0.4.3/InstaEclipse.0.4.3.apk",
+            "hash": "sha256-X6N48rz5WX8ikXZcVwyT1YUjPtctWCo+Tb5/2oxBlp4="
+        }
+    },
+    "haruka": {}
+}

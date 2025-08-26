@@ -1,0 +1,13 @@
+{
+    "app_name": "ProtonMail",
+    "package_name": "ch.protonmail.android",
+    "source": "github",
+    "asset_name": "ProtonMail-*.apk",
+    "repo": "ProtonMail/android-mail",
+    "version": "4.10.0(11444)",
+    "patch_method": "revanced",
+    "rvps": [
+        "patches.rvp"
+    ],
+    "patches": []
+}

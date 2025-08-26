@@ -1,0 +1,13 @@
+{
+    "app_name": "YouTube",
+    "package_name": "com.google.android.youtube",
+    "source": "apkmirror",
+    "download_url": "https://www.apkmirror.com/apk/google-inc/youtube/youtube",
+    "version": "20.13.41",
+    "split": true,
+    "patch_method": "revanced",
+    "rvps": [
+        "patches-rvx.rvp"
+    ],
+    "patches": []
+}

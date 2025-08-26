@@ -1,0 +1,11 @@
+{
+    "app_name": "Instagram",
+    "package_name": "com.instagram.android",
+    "source": "apkmirror",
+    "download_url": "https://www.apkmirror.com/apk/instagram/instagram-instagram/instagram",
+    "version": "394.0.0.38.81",
+    "patch_method": "lspatch",
+    "embedded": false,
+    "split": true,
+    "patches": []
+}

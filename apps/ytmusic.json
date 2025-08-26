@@ -1,0 +1,13 @@
+{
+    "app_name": "YTMusic",
+    "package_name": "com.google.android.apps.youtube.music",
+    "source": "apkmirror",
+    "download_url": "https://www.apkmirror.com/apk/google-inc/youtube-music/youtube-music",
+    "version": "8.12.53",
+    "split": true,
+    "patch_method": "revanced",
+    "rvps": [
+        "patches-rvx.rvp"
+    ],
+    "patches": []
+}
